@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "checks": {
+    "manifest": true,
+    "entry": true,
+    "readme": true,
+    "tests_present": true,
+    "python_syntax": true
+  },
+  "limits": [
+    "Проверка статическая: код и тесты не запускались"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "summary": {
+    "staged": [
+      {
+        "status": "M",
+        "path": "main.py"
+      }
+    ],
+    "unstaged": [
+      {
+        "status": "M",
+        "path": "README.md"
+      }
+    ],
+    "untracked": [
+      "notes.txt"
+    ],
+    "checks": "не запускались"
+  },
+  "project": {
+    "ok": true,
+    "checks": {
+      "manifest": true,
+      "entry": true,
+      "readme": true,
+      "tests_present": true,
+      "python_syntax": true
+    },
+    "limits": [
+      "Проверка статическая: код и тесты не запускались"
+    ]
+  }
+}
